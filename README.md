@@ -101,3 +101,6 @@ It's a Machine learning project where I have analyzed the current situation of C
 #### Thank you! Stay Home! Stay Safe!
 
 # abhisheks008
+
+
+_This project is based on the data provided till 15th November, 2020_
