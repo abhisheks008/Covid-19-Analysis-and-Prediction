@@ -114,6 +114,10 @@ N.B.: _This project is based on the data provided till 15th November, 2020_
 <td align="center"><a href="https://github.com/abhisheks008"><img src="https://avatars.githubusercontent.com/u/68724349?v=4" width="80px;" alt=""/><br /><sub><b>Abhishek Sharma</b></sub></a></td>
 <td align="center"><a href="https://github.com/Ishita-2001"><img src="https://avatars.githubusercontent.com/u/85105978?v=4" width="80px;" alt=""/><br /><sub><b> Ishita Pahari</b></sub></a></td>
 <td align="center"><a href="https://github.com/UdayanMisra2000"><img src="https://avatars.githubusercontent.com/u/83898487?v=4" width="80px;" alt=""/><br /><sub><b>Udayan Misra</b></sub></a></td>
+<td align="center"><a href="https://github.com/Digbijoy08"><img src="https://avatars.githubusercontent.com/u/83782347?v=4" width="80px;" alt=""/><br /><sub><b>Digbijoy Dasgupta</b></sub></a></td>
+<td align="center"><a href="https://github.com/Shreya0011"><img src="https://avatars.githubusercontent.com/u/87656303?v=4" width="80px;" alt=""/><br /><sub><b>Shreya Bose</b></sub></a></td>
+<td align="center"><a href="https://github.com/Raktim1246"><img src="https://avatars.githubusercontent.com/u/75154706?v=4" width="80px;" alt=""/><br /><sub><b>Raktim Karmakar</b></sub></a></td>   
+
   </tr>
 </table>
 
