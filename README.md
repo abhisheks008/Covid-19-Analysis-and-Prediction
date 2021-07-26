@@ -3,6 +3,8 @@
 
 It's a Machine learning project where I have analyzed the current situation of Covid-19 of India with respect to the world and predicted the cases and outcomes of the analysis.
 
+<a href = "https://github.com/abhisheks008/Covid-19-Analysis-and-Prediction"><img src = "https://www.llanhealthcare.co.uk/wp-content/uploads/coronavirus-4914026_1920.jpg"></a>
+
 ## Contents of the Project :
 
 ### Introduction
@@ -100,7 +102,7 @@ It's a Machine learning project where I have analyzed the current situation of C
 
 ### Conclusion
 
-#### Thank you! Stay Home! Stay Safe!
+N.B.: _This project is based on the data provided till 15th November, 2020_
 
 
 ********************************************************
@@ -117,11 +119,26 @@ It's a Machine learning project where I have analyzed the current situation of C
 
 ***********************************************************
 <h2>📜Conference Participated with this Research Work</h2>
-<img src="https://i.imgur.com/EwHM6Je.png" width="100px;" alt=""/><img src="https://i.imgur.com/UWx6O23.jpg" height = "100px" width = "500px" alt = "" />
+<a href = "https://www.springer.com/gp/book/9789811642838"><img src="https://i.imgur.com/EwHM6Je.png" width="100px;" alt=""/> </a> &nbsp;  <a href = "https://www.springer.com/gp/book/9789811642838"><img src="https://i.imgur.com/UWx6O23.jpg" height = "100px" width = "700px" alt = "" /></a>
 
 **************************************************************
 
-# abhisheks008
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+<h2>📝Publication</h2>  
 
-_This project is based on the data provided till 15th November, 2020_
+<a href = "https://www.springer.com/gp/book/9789811642838"><img src="https://cdn-images-1.medium.com/max/800/1*H7Pq3wD3b7gHKQQwXZlSRg.jpeg" width="225px" height = "150px" alt=""/></a> &nbsp; <a href="https://www.springer.com/gp/book/9789811642838"><img src="https://media.springernature.com/w153/springer-static/cover/book/9789811642845.jpg" width="100px;" alt=""/></a>
+
+**[Cyber Intelligence and Information Retrieval (CIIR 2021), Springer LNNS Series](https://www.springer.com/gp/book/9789811642838)** 
+
+◆ ISBN : 978-981-16-4283-8 
+◆ DOI : 10.1007/978-981-16-4284-5 
+◆ eBook ISBN : 978-981-16-4284-5 
+◆ Series ISSN : 2367-3370
+
+*******************************************************************
+
+### © 2021 Abhishek Sharma
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+
+## Thank You! Show some :heart: if you like it!
+
+
