@@ -1,4 +1,4 @@
-# Covid-19-Analysis-and-Prediction
+# Covid-19 Analysis and Prediction - A Case Study using Machine Learning
 *************************************************************************************
 
 It's a Machine learning project where I have analyzed the current situation of Covid-19 of India with respect to the world and predicted the cases and outcomes of the analysis.
@@ -105,7 +105,23 @@ It's a Machine learning project where I have analyzed the current situation of C
 
 ********************************************************
 
-# abhisheks008
+<h2>✔Contributors of this Research Work</h2>
 
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/abhisheks008"><img src="https://avatars.githubusercontent.com/u/68724349?v=4" width="80px;" alt=""/><br /><sub><b>Abhishek Sharma</b></sub></a></td>
+<td align="center"><a href="https://github.com/Ishita-2001"><img src="https://avatars.githubusercontent.com/u/85105978?v=4" width="80px;" alt=""/><br /><sub><b> Ishita Pahari</b></sub></a></td>
+<td align="center"><a href="https://github.com/UdayanMisra2000"><img src="https://avatars.githubusercontent.com/u/83898487?v=4" width="80px;" alt=""/><br /><sub><b>Udayan Misra</b></sub></a></td>
+  </tr>
+</table>
+
+***********************************************************
+<h2>📜Conference Participated with this Research Work</h2>
+<img src="https://i.imgur.com/EwHM6Je.png" width="100px;" alt=""/><img src="https://i.imgur.com/UWx6O23.jpg" height = "100px" width = "500px" alt = "" />
+
+**************************************************************
+
+# abhisheks008
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 
 _This project is based on the data provided till 15th November, 2020_
